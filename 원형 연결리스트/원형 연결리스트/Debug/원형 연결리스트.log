@@ -1,0 +1,5 @@
+﻿  CLinkedList.c
+D:\Programing\Visual Studio\원형 연결리스트\원형 연결리스트\CLinkedList.c(64,16): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  CLinkedListMain.c
+  코드를 생성하고 있습니다...
+  원형 연결리스트.vcxproj -> D:\Programing\Visual Studio\원형 연결리스트\Debug\원형 연결리스트.exe

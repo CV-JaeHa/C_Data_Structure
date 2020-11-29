@@ -1,0 +1,9 @@
+﻿  linkedlist.c
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(20,22): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(32,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(17,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(68,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(62): warning C4716: 'LInsert': 값을 반환해야 합니다.
+D:\Programing\Visual Studio\연결리스트\연결리스트\linkedlist.c(69): warning C4716: 'LDelete': 값을 반환해야 합니다.
+  연결리스트.vcxproj -> D:\Programing\Visual Studio\연결리스트\Debug\연결리스트.exe

@@ -1,0 +1,6 @@
+﻿  LinkedQueue.c
+D:\Programing\Visual Studio\링크드 큐\링크드 큐\LinkedQueue.c(64,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  QueueMain.c
+D:\Programing\Visual Studio\링크드 큐\링크드 큐\QueueMain.c(21,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  링크드 큐.vcxproj -> D:\Programing\Visual Studio\링크드 큐\Debug\링크드 큐.exe
