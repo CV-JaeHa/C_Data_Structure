@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "Çì´õ.h"
 
 void swap(int* num1, int* num2) {

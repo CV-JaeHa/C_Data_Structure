@@ -1,10 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include "헤더.h"
 
-// num 값 바꾸기
-void swap(int* num1, int* num2);
-// Arr 값 모두 출력하기
-void printArr(int* arr, int size);
 // 선택정렬
 void selectionSort(int* arr, int size);
 
@@ -19,19 +15,6 @@ int main() {
 	selectionSort(arr, size);
 
 	return 0;
-}
-
-void swap(int* num1, int* num2) {
-	int tmp;
-	tmp = *num1;
-	*num1 = *num2;
-	*num2 = tmp;
-}
-
-void printArr(int* arr, int size) {
-	printf("\n");
-	for (int i = 0; i < size; i++)
-		printf("%d ", arr[i]);
 }
 
 void selectionSort(int* arr, int size) {
