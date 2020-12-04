@@ -11,7 +11,7 @@ void selectionSort(int* arr, int size);
 int main() {
 	int size;
 	int arr[] = { 68, 10, 30, 2, 16, 8, 31, 22 };
-	
+
 	size = sizeof(arr) / sizeof(int);
 
 	printf("------ Selection Sort -------");
