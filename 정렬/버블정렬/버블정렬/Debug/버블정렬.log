@@ -1,2 +1,5 @@
 ﻿  버블정렬.c
+  함수.c
+D:\Programing\C, C++\C_Data_Structure\정렬\버블정렬\버블정렬\함수.c(11,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
   버블정렬.vcxproj -> D:\Programing\C, C++\C_Data_Structure\정렬\버블정렬\Debug\버블정렬.exe
