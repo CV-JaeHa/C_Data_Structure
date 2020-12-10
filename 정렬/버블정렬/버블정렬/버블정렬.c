@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "헤더.h"
+#include "기본함수.h"
 
 void bubbleSort(int* arr, int size);
 

@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="함수.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="삽입정렬.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="헤더.h">
+    <ClInclude Include="기본함수.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

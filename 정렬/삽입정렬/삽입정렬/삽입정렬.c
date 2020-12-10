@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "헤더.h"
+#include "기본함수.h"
 
 // 삽입정렬
 void insertSort(int* arr, int size);

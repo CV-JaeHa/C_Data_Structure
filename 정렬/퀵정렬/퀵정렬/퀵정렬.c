@@ -41,7 +41,7 @@ void quickSort(int* arr, int start, int end) {
 	int pivot = getPivot(arr, start, end);
 	
 	// 피봇 기준으로 왼쪽 정렬
-	quickSort(arr, 0, pivot - 1);
+	quickSort(arr, start, pivot - 1);
 	// 피봇 기준으로 오른쪽 정렬
 	quickSort(arr, pivot + 1, end);
 }

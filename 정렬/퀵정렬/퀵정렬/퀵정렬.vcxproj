@@ -140,10 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="퀵정렬.c" />
-    <ClCompile Include="함수.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="헤더.h" />
+    <ClInclude Include="기본함수.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

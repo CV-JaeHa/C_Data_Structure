@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "헤더.h"
+#include "기본함수.h"
 
 // 선택정렬
 void selectionSort(int* arr, int size);
