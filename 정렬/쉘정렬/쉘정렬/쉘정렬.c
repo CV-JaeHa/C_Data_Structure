@@ -21,8 +21,7 @@ int main() {
 }
 
 void shellSort(int* arr, int size) {
-	int i, j, h;
-	for (h = size / 2; h > 0; h /= 2) {
+	for (int h = size / 2; h > 0; h /= 2) {
 		for (int i = 0; (i + h) < size; i++)
 			insertSort(arr, i, size - 1, h);
 	}

@@ -1,4 +1,2 @@
 ﻿  쉘정렬.c
-D:\Programing\C, C++\C_Data_Structure\정렬\쉘정렬\쉘정렬\쉘정렬.c(24,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
-D:\Programing\C, C++\C_Data_Structure\정렬\쉘정렬\쉘정렬\쉘정렬.c(24,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
   쉘정렬.vcxproj -> D:\Programing\C, C++\C_Data_Structure\정렬\쉘정렬\Debug\쉘정렬.exe
