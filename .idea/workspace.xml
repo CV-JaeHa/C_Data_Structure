@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b0b53d2-417d-4aa0-b284-d869c3f12e59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/1a01a2d83e95833a/병합정렬.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/41722653b16d71e7/큐.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/53b9955b79640a54/기수정렬.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/73b4b3532b9a60ae/삽입정렬.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/vc142.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/기수정렬.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기본함수.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/큐.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lmCxuxFCoHWBlJplXA1dYzF6DU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0b53d2-417d-4aa0-b284-d869c3f12e59" name="Default Changelist" comment="" />
+      <created>1608193135658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608193135658</updated>
+      <workItem from="1608193139617" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
