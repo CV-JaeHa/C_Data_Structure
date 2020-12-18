@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b0b53d2-417d-4aa0-b284-d869c3f12e59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/Browse.VC.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/1a01a2d83e95833a/병합정렬.ipch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/41722653b16d71e7/큐.ipch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/53b9955b79640a54/기수정렬.ipch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/.vs/기수정렬/v16/ipch/AutoPCH/73b4b3532b9a60ae/삽입정렬.ipch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/Debug/기수정렬.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.exe.recipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/Debug/기수정렬.tlog/기수정렬.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기본함수.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/기수정렬.vcxproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/기수정렬/기수정렬/큐.h" afterDir="false" />
-    </list>
+    <list default="true" id="7b0b53d2-417d-4aa0-b284-d869c3f12e59" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +20,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/Soccer_Ball_Tracking_AI" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7b0b53d2-417d-4aa0-b284-d869c3f12e59" name="Default Changelist" comment="" />
@@ -58,7 +31,11 @@
       <option name="presentableId" value="Default" />
       <updated>1608193135658</updated>
       <workItem from="1608193139617" duration="3000" />
+      <workItem from="1608197820865" duration="77000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
