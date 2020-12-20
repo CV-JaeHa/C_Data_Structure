@@ -12,8 +12,10 @@ void InsertFront(Node* pNode, int data);
 void InsertBack(Node* pNode, int data);
 void DeleteFront(Node* pNode);
 void DeleteBack(Node* pNode);
+void printArr(Node* pNode);
 
 int main() {
+	
 
 	return 0;
 }
@@ -46,4 +48,8 @@ void DeleteBack(Node* pNode) {
 	temp = pNode->next;
 	pNode->next = pNode->next->next;
 	free(temp);
+}
+
+void printArr(Node *pNode) {
+	for 
 }
