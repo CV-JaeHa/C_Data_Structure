@@ -13,15 +13,16 @@ int main() {
 	printf("------ Selection Sort -------");
 	printArr(arr, size);
 	selectionSort(arr, size);
+	printf("\n\n°á°ú : ");
+	printArr(arr, size);
+	printf("\n");
 
 	return 0;
 }
 
 void selectionSort(int* arr, int size) {
-	int min;
-
-	for (int i = 0; i < size; i++) {
-		min = i;
+	for (int i = 0; i < size - 1; i++) {
+		int min = i;
 		for (int j = i + 1; j < size; j++) {
 			if (arr[min] > arr[j]) {
 				min = j;
