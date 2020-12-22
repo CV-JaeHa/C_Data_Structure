@@ -1,4 +1,5 @@
 #pragma once
+#include <stdio.h>  
 
 // 숫자 바꿔주기
 void swap(int* num1, int* num2) {

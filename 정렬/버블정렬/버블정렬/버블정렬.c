@@ -19,14 +19,15 @@ int main() {
 
 void bubbleSort(int* arr, int size) {
 	// 버블정렬
-	/*for (int i = 0; i < size; i++) {
-		for (int j = 0; j < size - i - 1; j++) {
+	for (int i = size - 1; i > 0; i--) {
+		for (int j = 0; j < size - 1; j++) {
 			if (arr[j] > arr[j + 1])
 				swap(&arr[j], &arr[j + 1]);
 		}
 		printArr(arr, size);
-	}*/
+	}
 
+	/*
 	// 개선된 버블정렬
 	bool swaping = false;
 	for (int i = size - 1; i >= 0; i--) {
@@ -41,4 +42,5 @@ void bubbleSort(int* arr, int size) {
 			return;
 		printArr(arr, size);
 	}
+	*/
 }
